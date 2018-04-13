@@ -12,6 +12,11 @@
 		9E3EF3B520815B250098E6F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3B320815B250098E6F7 /* Main.storyboard */; };
 		9E3EF3B720815B250098E6F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3B620815B250098E6F7 /* Assets.xcassets */; };
 		9E3EF3BA20815B250098E6F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3B820815B250098E6F7 /* LaunchScreen.storyboard */; };
+		9E3EF3C2208160970098E6F7 /* 03 Take A Chance On Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3C1208160650098E6F7 /* 03 Take A Chance On Me.mp3 */; };
+		9E3EF3C7208160AD0098E6F7 /* 10 I Wanna Be Sedated.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3C3208160A00098E6F7 /* 10 I Wanna Be Sedated.mp3 */; };
+		9E3EF3C8208160AD0098E6F7 /* 10 New Math.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3C5208160A00098E6F7 /* 10 New Math.mp3 */; };
+		9E3EF3C9208160AD0098E6F7 /* 13 Re_ Your Brains.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3C4208160A00098E6F7 /* 13 Re_ Your Brains.mp3 */; };
+		9E3EF3CA208160AD0098E6F7 /* Rick Astley - Never Gonna Give You Up.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E3EF3C6208160A00098E6F7 /* Rick Astley - Never Gonna Give You Up.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		9E3EF3B620815B250098E6F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E3EF3B920815B250098E6F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E3EF3BB20815B260098E6F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E3EF3C1208160650098E6F7 /* 03 Take A Chance On Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03 Take A Chance On Me.mp3"; sourceTree = "<group>"; };
+		9E3EF3C3208160A00098E6F7 /* 10 I Wanna Be Sedated.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10 I Wanna Be Sedated.mp3"; sourceTree = "<group>"; };
+		9E3EF3C4208160A00098E6F7 /* 13 Re_ Your Brains.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13 Re_ Your Brains.mp3"; sourceTree = "<group>"; };
+		9E3EF3C5208160A00098E6F7 /* 10 New Math.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10 New Math.mp3"; sourceTree = "<group>"; };
+		9E3EF3C6208160A00098E6F7 /* Rick Astley - Never Gonna Give You Up.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rick Astley - Never Gonna Give You Up.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +64,11 @@
 		9E3EF3AE20815B250098E6F7 /* Music Player */ = {
 			isa = PBXGroup;
 			children = (
+				9E3EF3C3208160A00098E6F7 /* 10 I Wanna Be Sedated.mp3 */,
+				9E3EF3C5208160A00098E6F7 /* 10 New Math.mp3 */,
+				9E3EF3C4208160A00098E6F7 /* 13 Re_ Your Brains.mp3 */,
+				9E3EF3C6208160A00098E6F7 /* Rick Astley - Never Gonna Give You Up.mp3 */,
+				9E3EF3C1208160650098E6F7 /* 03 Take A Chance On Me.mp3 */,
 				9E3EF3AF20815B250098E6F7 /* AppDelegate.swift */,
 				9E3EF3B120815B250098E6F7 /* ViewController.swift */,
 				9E3EF3B320815B250098E6F7 /* Main.storyboard */,
@@ -123,6 +138,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E3EF3C7208160AD0098E6F7 /* 10 I Wanna Be Sedated.mp3 in Resources */,
+				9E3EF3C8208160AD0098E6F7 /* 10 New Math.mp3 in Resources */,
+				9E3EF3C9208160AD0098E6F7 /* 13 Re_ Your Brains.mp3 in Resources */,
+				9E3EF3CA208160AD0098E6F7 /* Rick Astley - Never Gonna Give You Up.mp3 in Resources */,
+				9E3EF3C2208160970098E6F7 /* 03 Take A Chance On Me.mp3 in Resources */,
 				9E3EF3BA20815B250098E6F7 /* LaunchScreen.storyboard in Resources */,
 				9E3EF3B720815B250098E6F7 /* Assets.xcassets in Resources */,
 				9E3EF3B520815B250098E6F7 /* Main.storyboard in Resources */,
