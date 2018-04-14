@@ -130,6 +130,7 @@ class ViewController: UIViewController, AVSpeechSynthesizerDelegate {
     
     @IBAction func next(_ sender: Any) {
         songNumber = songNumber == 5 ? 1 : songNumber + 1
+        songLabel.text = songNames[songNumber]
         speakAndPlay(songName: songNames[songNumber])
     }
     
